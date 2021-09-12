@@ -9,10 +9,10 @@ Powerfull tools for bruteforce password WordPress via XMLRPC
 
 ## Usage
 
-`sudo apt install jq / sudo yum install jq (depending on the linux os you are using)`
-`git clone this repo`
-`chmod +x XMLRPCbf`
-`./XMLRPCbf yourtargetlist.txt`
+- `sudo apt install jq / sudo yum install jq (depending on the linux os you are using)`
+- `git clone this repo`
+- `chmod +x XMLRPCbf`
+- `./XMLRPCbf yourtargetlist.txt`
 
 ## Contributor
 - [Codelatte Team](https://codelatte.net)
